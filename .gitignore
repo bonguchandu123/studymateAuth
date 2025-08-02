@@ -1,0 +1,7 @@
+venv/
+.env
+.env.*
+node_modules/
+__pycache__/
+*.py[cod]
+hf_cache/
